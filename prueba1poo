@@ -6,4 +6,4 @@ Damian=Persona("19",174m)
 julian=persona("17",150)
 paula=Persona("21",187)
 jaime=persona("18",176)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-joseph=persona("20",173)⠀⠀⠀⠀⠀⠀⠀⠀
+joseph=Persona("20",173)⠀⠀⠀⠀⠀⠀⠀⠀
