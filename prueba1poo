@@ -2,8 +2,7 @@
 class Persona:
 rt 
 jonnathan=Persona("2?",171)
-Damian=Persona("19",174)
-julian=persona("17",chichon de piso)
+julian=persona("17",173)
 paula=Persona("21",157)
 jaime=persona("18",176)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 joseph=Persona("20",173)⠀⠀⠀⠀⠀⠀⠀⠀
