@@ -1,6 +1,14 @@
 # Creacion de mi primera clase en Github
 class Persona:
-rt 
+#rt
+# Creación de los atributos 
+def __init__(self,edad,estatura)
+self.edad=edad
+self.estatura=estatura
+# Creación de los métodos 
+def estudiar()
+def jugar()
+# Creación de los objetos 
 Damian=Persona("19",-174)
 jonnathan=Persona("2?",171)
 julian=persona("17",voy bajandoooo)
