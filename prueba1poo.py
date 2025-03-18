@@ -2,12 +2,12 @@
 class Persona:
 #rt
 # Creación de los atributos 
-def __init__(self,edad,estatura)
+def __init__(self,edad,estatura):
 self.edad=edad
 self.estatura=estatura
 # Creación de los métodos 
-def estudiar()
-def jugar()
+def estudiar(self):
+def jugar(self):
 # Creación de los objetos 
 Damian=Persona("19",-174)
 jonnathan=Persona("2?",171)
