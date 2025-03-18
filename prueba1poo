@@ -1,3 +1,4 @@
 # Creacion de mi primera clase en Github
 class Persona:
 rt :v
+jonnathan=Persona("2?",171)
